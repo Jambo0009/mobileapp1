@@ -1,3 +1,3 @@
-# mobileapp1
+# mobileapp
 
 성민준
